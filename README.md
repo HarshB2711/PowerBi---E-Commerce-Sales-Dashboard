@@ -1,3 +1,7 @@
+<img width="1273" height="729" alt="image" src="https://github.com/user-attachments/assets/2be96250-4e76-4f42-b470-35c34bd9b5ff" />
+
+
+
 # 📊 Online E-Commerce Sales Dashboard Analysis
 
 This repository contains the analysis and visualization files for an **Online E-Commerce Sales Dashboard**. The dashboard provides a comprehensive overview of sales performance, profitability, customer behavior, and geographical distribution of sales data.
