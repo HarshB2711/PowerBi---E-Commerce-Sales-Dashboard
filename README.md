@@ -1,4 +1,4 @@
-![12](https://github.com/user-attachments/assets/9c89c69c-c2a2-401f-9835-f98087155db0)
+
 
 
 
@@ -18,6 +18,7 @@ The core KPIs tracked at the top of the dashboard are:
 * **Sum of AOD (Average Order Duration/Value - *Assuming AOD means Average Order Value or a similar metric*):** **121K**
 
 ---
+![12](https://github.com/user-attachments/assets/9c89c69c-c2a2-401f-9835-f98087155db0)
 
 ## 📈 Key Insights & Dashboard Components
 
